@@ -1,0 +1,23 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #428CD4;
+}
+
+
+.header {
+    margin: 70px;
+}
+h1 {
+    text-align: center;
+}
+
+.my-image {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
